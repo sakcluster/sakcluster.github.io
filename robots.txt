@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sakcluster.github.io/sitemap/sitemap.txt
